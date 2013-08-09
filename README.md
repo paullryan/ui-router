@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/angular-ui/ui-router.png?branch=master)](https://travis-ci.org/angular-ui/ui-router)
 
+https://www.codeship.io/projects/c06d5a10-e2c5-0130-66a6-1a313729f5db/status
+
 # UI-Router
 
 **Attention**: UI-Router uses <code>grunt >= 0.4.x</code> make sure to upgrade your environment and read the
